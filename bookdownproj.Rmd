@@ -10,7 +10,7 @@ site: bookdown::bookdown_site
 
 <!--chapter:end:index.Rmd-->
 
-# The pool of tears
+# My book-1
 
 
 <!--chapter:end:02-tears.Rmd-->
